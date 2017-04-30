@@ -106,11 +106,4 @@ jupyter notebook .
 y abrir el archivo `python-sample.ipynb`.
 
 
-# Soluciones
-| Score | Usuario |	Algoritmo | Link Repo |
-| - | - | - | - |
-| *score* | *nombre* | *algoritmo* | *link* |
-
-
-
 [s1]: http://rodrigob.github.io/are_we_there_yet/build/images/mnist.png?1363085077 "S"
