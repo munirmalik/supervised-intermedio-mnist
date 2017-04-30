@@ -6,6 +6,9 @@ El [MNIST](http://yann.lecun.com/exdb/mnist/) es un conjunto de imágenes de dig
 
 Este dataset tiene mas de 60,000 imágenes separadas en 10 clases. El reto es construir un clasificador de imágenes que sea capaz de reconocer los digitos.
 
+### Ranking
+Ver [ranking](https://github.com/colomb-ia/supervised-intermedio-mnist/blob/master/ranking.md).
+
 ### Formato Datos
 Todos los datos viven en la carpeta `.dataget/data` y se dividen en 2 grupos
 ```
