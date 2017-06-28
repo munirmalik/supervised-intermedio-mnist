@@ -24,10 +24,10 @@ python knn.py
 ```
 
 ##### Metodo
-
+Usado el metodo "k nearest neighbours" con parametros "n_neighbors=2, algorithm='brute', leaf_size=7". El algoritmo 'brute' hizo metodo muy rapido. 'leaf_size' no hay efecto en la velocidad de algoritmo. 'n_neighbors' no poder ser muy grande. Si no, la exactitud ser no bueno.
 
 ##### Resultados
-
+0.9628
 
 
 
